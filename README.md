@@ -13,5 +13,5 @@ This repository contains a Python script for performing object detection using a
 - **Image Preprocessing**: Resizes and normalizes images for model input
 - **Bounding Box Visualization**: Draws ground truth bounding boxes with class labels
 
-![Example Detection](detection_example.png)  *(Right: Detection results)*  
+![Example Detection](Screenshot 2025-02-27 195958.png)  
 ![Original Image](original_image.png)  *(Left: Original image)*  
